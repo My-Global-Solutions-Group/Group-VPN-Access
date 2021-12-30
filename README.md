@@ -1,0 +1,2 @@
+# Group-VPN-Access
+This is the My Global Solutions Group VPN Setup, Instructions and General How to. VPN access is required for access to some Company Servers, SQL Databases, Windows Servers, Backup Servers, Colocation Facilities and Switches and other corporate and restricted and controlled items. Access is managed by My Global Solutions Group Cyber Security and Compliance Team. For access please read the guide or speak to your manager.
